@@ -1,3 +1,16 @@
+/*
+Integrantes de la Brigada
+Espinosa Salvador Roman.
+Maldonado Martínez Erik Fernando.
+Porto Rayón Emanuel.
+Zaragoza Ruiz Santiago Luca.
+
+Fecha de realización del programa 12/Octubre/2025
+
+Calcular el area de diferentes formas geometricas: cuadrado, circulo, triangulo y rectangulo.
+El usuario debe escoger de un menu de opciones la figura a calcular.
+*/
+
 #include <stdio.h>
 #include <math.h>
 int main(){
@@ -40,6 +53,7 @@ int main(){
         break;
     }
     return 0;
+
 
 
 }
