@@ -16,6 +16,12 @@ Brigada 6
 
 [Código del ejercicio 1](/figuras.c)
 
+Funcionamiento:
+![figura1](/capturas7/figura1.png)
+![figura2](/capturas7/figura2.png)
+![figura3](/capturas7/figura3.png)
+![figura4](/capturas7/figura4.png)
+
 2. Calcular el sueldo de un empleado: El usuario deberá ingresar el número de horas trabajadas y el valor por cada hora. Considere en los cálculos el descuento de seguridad social del 9.35% sobre el total de ingresos y una bonificación del 2% del sueldo inicial a percibir.
 
 [Código del ejercicio 2](/sueldotrabajador.c)
